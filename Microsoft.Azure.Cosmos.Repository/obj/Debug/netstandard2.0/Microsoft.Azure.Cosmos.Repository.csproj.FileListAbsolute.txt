@@ -1,0 +1,20 @@
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.deps.json
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.dll
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.AssemblyInfoInputs.cache
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.AssemblyInfo.cs
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.pdb
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.dll
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.pdb
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.deps.json
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.dll
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.pdb
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.AssemblyInfoInputs.cache
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.AssemblyInfo.cs
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.dll
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.pdb
+D:\Skype Downloads\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.csprojAssemblyReference.cache
+C:\Core\git\tv\git\Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository\obj\Debug\netstandard2.0\Microsoft.Azure.Cosmos.Repository.csprojAssemblyReference.cache

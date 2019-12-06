@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Azure.Cosmos.Repository", "Microsoft.Azure.Cosmos.Repository\Microsoft.Azure.Cosmos.Repository.csproj", "{B9CB1237-E2D5-427B-AB41-916DFEB84E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{32312B86-A11D-489B-B684-CA36EE848AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CB1237-E2D5-427B-AB41-916DFEB84E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CB1237-E2D5-427B-AB41-916DFEB84E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CB1237-E2D5-427B-AB41-916DFEB84E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CB1237-E2D5-427B-AB41-916DFEB84E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32312B86-A11D-489B-B684-CA36EE848AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32312B86-A11D-489B-B684-CA36EE848AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32312B86-A11D-489B-B684-CA36EE848AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32312B86-A11D-489B-B684-CA36EE848AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D903C53F-8021-4727-974D-8A6DCA4BBE60}
+	EndGlobalSection
+EndGlobal
