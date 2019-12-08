@@ -118,6 +118,20 @@ namespace Microsoft.Azure.Cosmos.Core
                 throw ce;
             }
         }
+
+        /// <summary>Deletes item from db.</summary>
+        /// <param name="id"></param>
+        public virtual async Task DeleteAsyncById(string id)
+        {
+            try
+            {
+                await Context.Container.DeleteItemAsync<T>(id, ResolvePartitionKey(id));
+            }
+            catch (CosmosException ce)
+            {
+                throw ce;
+            }
+        }
     }
 }
 

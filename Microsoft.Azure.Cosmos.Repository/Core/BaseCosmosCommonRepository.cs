@@ -78,20 +78,23 @@ namespace Microsoft.Azure.Cosmos.Core
 
         public virtual async Task<IList<T>> GetItemsByQuery<T>(string query) where T : class, IConcern
         {
-            QueryDefinition queryDefinition = new QueryDefinition(query);
-            FeedIterator<T> queryResultSetIterator = Context.Container.GetItemQueryIterator<T>(queryDefinition);
-            List<T> items = new List<T>();
-
-            while (queryResultSetIterator.HasMoreResults)
+            try
             {
-                FeedResponse<T> currentResultSet = await queryResultSetIterator.ReadNextAsync();
-                foreach (T item in currentResultSet)
+                FeedIterator<T> queryResult = Context.Container.GetItemQueryIterator<T>(new QueryDefinition(query));
+                List<T> results = new List<T>();
+                while (queryResult.HasMoreResults)
                 {
-                    items.Add(item);
-                }
-            }
+                    FeedResponse<T> response = await queryResult.ReadNextAsync();
 
-            return items;
+                    results.AddRange(response);
+                }
+
+                return results;
+            }
+            catch (CosmosException ce)
+            {
+                throw ce;
+            }
         }
     }
 }
