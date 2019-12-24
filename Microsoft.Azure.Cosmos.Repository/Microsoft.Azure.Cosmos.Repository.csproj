@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sivakumar Siddam</Authors>
+    <Company>Technovert</Company>
+    <Product>Cosmos Database Repository</Product>
+    <PackageProjectUrl>https://github.com/technovert/Microsoft.Azure.Cosmos.Repository</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/technovert/Microsoft.Azure.Cosmos.Repository</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This client library enables client applications targeting .NET Core to connect to Azure Cosmos DB via the DocumentDB (SQL) API with repository pattern. Azure Cosmos DB is a globally distributed, multi-model database service.</Description>
+    <Copyright>Copyrights ©2019 Technovert Solutions. All rights reserved</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
