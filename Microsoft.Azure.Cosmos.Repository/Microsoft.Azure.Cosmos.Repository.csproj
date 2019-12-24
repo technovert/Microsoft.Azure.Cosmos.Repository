@@ -10,6 +10,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>This client library enables client applications targeting .NET Core to connect to Azure Cosmos DB via the DocumentDB (SQL) API with repository pattern. Azure Cosmos DB is a globally distributed, multi-model database service.</Description>
     <Copyright>Copyrights ©2019 Technovert Solutions. All rights reserved</Copyright>
+    <PackageId>Technovert.Azure.Cosmos.Repository</PackageId>
+    <PackageTags>Microsoft Azure DocumentDb CosmosDb Cosmos DocDb NoSQL Repository</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

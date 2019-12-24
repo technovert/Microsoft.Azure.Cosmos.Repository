@@ -45,5 +45,11 @@ namespace Microsoft.Azure.Cosmos.Core
         /// <param name="query"></param>
         /// <returns></returns>
         Task<IList<T>> GetItemsByQuery(string query);
+        /// <summary>
+        /// Deletes item from db.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        Task DeleteAsyncById(string id);
     }
 }
